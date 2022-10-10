@@ -1,0 +1,38 @@
+baseurl = "https://sensational-florentine-456454.netlify.app"
+title = "sneakersnstuff"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[params]
+  author = "pablo garcía"
+  info = "Mi blog"
+  description = "la página personal de Pablo"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/snkrs.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  [taxonomies]
+  category = "categorias"
+  series = "series"
+  tag = "tags"
+  author = "autores"
+
+  # Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
