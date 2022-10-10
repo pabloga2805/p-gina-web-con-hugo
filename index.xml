@@ -2,18 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sneakersnstuff</title>
-    <link>http://www.example.com/</link>
+    <link>https://sensational-florentine-456454.netlify.app/</link>
     <description>Recent content on sneakersnstuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sensational-florentine-456454.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Prueba</title>
-      <link>http://www.example.com/posts/prueba/</link>
+      <title>How.to.cop</title>
+      <link>https://sensational-florentine-456454.netlify.app/posts/prueba/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/prueba/</guid>
-      <description> Titulo Link to heading </description>
+      <guid>https://sensational-florentine-456454.netlify.app/posts/prueba/</guid>
+      <description> Inicio Link to heading En esta guía os voy a enseñar los mejores sitios para comprar zapatillas exclusivas mediante sorteos/raffles.
+Mejores sitios Link to heading </description>
     </item>
     
   </channel>

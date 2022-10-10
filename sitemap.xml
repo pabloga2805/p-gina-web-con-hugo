@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/tags/emoji/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/tags/#snkrs/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/posts/prueba/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/prueba/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/posts/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/tags/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/autores/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/autores/</loc>
   </url><url>
-    <loc>http://www.example.com/categorias/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/categorias/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://sensational-florentine-456454.netlify.app/series/</loc>
   </url>
 </urlset>

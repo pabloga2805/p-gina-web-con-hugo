@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autores on sneakersnstuff</title>
-    <link>http://www.example.com/autores/</link>
+    <link>https://sensational-florentine-456454.netlify.app/autores/</link>
     <description>Recent content in Autores on sneakersnstuff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/autores/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://sensational-florentine-456454.netlify.app/autores/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
